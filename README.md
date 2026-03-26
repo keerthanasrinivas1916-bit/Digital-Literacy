@@ -103,7 +103,8 @@ This project helped me understand how to use digital tools effectively, maintain
  Project Report
 The detailed report of all tasks is included in the repository.
 
- File: `report/Project_Report.pdf`
+ File: 
+ https://github.com/keerthanasrinivas1916-bit/Digital-Literacy/blob/main/DIGITAL%20LITERACY%20PROJECT%20REPORT%20.docx
 
 
 
