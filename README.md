@@ -78,6 +78,8 @@ This project helped me understand how to use digital tools effectively, maintain
 
  Files:  
 - `task-4-email-etiquette/emails.txt`
+- https://github.com/keerthanasrinivas1916-bit/Digital-Literacy/blob/main/task-4%20Subject%20Request%20for%20Assignment%20Dead.txt
+- task-4 internship application email
 -   
 - `task-4-email-etiquette/social-media-checklist.txt`  
 
