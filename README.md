@@ -36,9 +36,14 @@ This project helped me understand how to use digital tools effectively, maintain
 - Outcome: Learned the importance of maintaining a professional digital identity.  
 
  Files:  
-- `task-2-portfolio/github.png`  
-- `task-2-portfolio/linkedin.png`  
+- `task-2-portfolio/github.png
+- `<img width="1920" height="1080" alt="Screenshot 2026-03-24 231243" src="https://github.com/user-attachments/assets/5cd181a3-ecd8-498c-a55b-1ee7e674e4a2" />
+  
+- `task-2-portfolio/linkedin.png
+- <img width="1920" height="1080" alt="Screenshot 2026-03-24 225650" src="https://github.com/user-attachments/assets/120221a8-7304-44e5-8dbd-381e80c4745a" />
+`  
 - `task-2-portfolio/kaggle.png`  
+<img width="1920" height="1080" alt="Screenshot 2026-03-24 231929" src="https://github.com/user-attachments/assets/faff7aa0-4803-47fc-a38e-e3e231413c1f" />
 
 
 
@@ -54,9 +59,14 @@ This project helped me understand how to use digital tools effectively, maintain
  Google Form Link: [Paste your link here]
 
  Files:  
-- `task-3-platforms/hackerrank.png`  
-- `task-3-platforms/google-form.png`  
-- `task-3-platforms/responses.png`  
+- `task-3-platforms/hackerrank.png`
+- <img width="1920" height="1080" alt="Screenshot 2026-03-24 235929" src="https://github.com/user-attachments/assets/4010d846-d913-4126-873e-b45d1447cfb4" />
+  
+- `task-3-platforms/google-form.png
+- https://docs.google.com/forms/d/e/1FAIpQLSeDTAgGN2uT0gNhE5yFZzd78j5kDf5CmQf4EuzifGllu62MZA/viewform?usp=publish-editor`  
+- `task-3-platforms/responses.png`
+-  <img width="1920" height="1080" alt="Screenshot 2026-03-26 185147" src="https://github.com/user-attachments/assets/b295c967-dc76-45e3-8560-897734809da6" />
+ 
 
 
 
@@ -67,7 +77,8 @@ This project helped me understand how to use digital tools effectively, maintain
 - Created a Social Media Do’s and Don’ts checklist  
 
  Files:  
-- `task-4-email-etiquette/emails.txt`  
+- `task-4-email-etiquette/emails.txt`
+-   
 - `task-4-email-etiquette/social-media-checklist.txt`  
 
 
