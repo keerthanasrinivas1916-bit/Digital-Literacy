@@ -22,6 +22,7 @@ This project helped me understand how to use digital tools effectively, maintain
 - Outcome: Improved my ability to present information visually in a clear and engaging way.  
 
  File: `task-1-presentation/infographic.png`
+![WhatsApp Image 2026-03-26 at 6 24 29 PM](https://github.com/user-attachments/assets/f4b077a6-8a87-4590-a5bd-f86bddd81214)
 
 
 
