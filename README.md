@@ -21,7 +21,7 @@ This project helped me understand how to use digital tools effectively, maintain
 - Description: Created a one-page infographic explaining digital literacy, useful digital tools, and safe internet practices.  
 - Outcome: Improved my ability to present information visually in a clear and engaging way.  
 
- File: `task-1-presentation/infographic.png`
+ File: task-1 presentation infographic
 ![WhatsApp Image 2026-03-26 at 6 24 29 PM](https://github.com/user-attachments/assets/f4b077a6-8a87-4590-a5bd-f86bddd81214)
 
 
@@ -36,13 +36,13 @@ This project helped me understand how to use digital tools effectively, maintain
 - Outcome: Learned the importance of maintaining a professional digital identity.  
 
  Files:  
-- `task-2-portfolio/github.png
+- task-2 github profile
 - `<img width="1920" height="1080" alt="Screenshot 2026-03-24 231243" src="https://github.com/user-attachments/assets/5cd181a3-ecd8-498c-a55b-1ee7e674e4a2" />
   
-- `task-2-portfolio/linkedin.png
+- task-2 linkein profile
 - <img width="1920" height="1080" alt="Screenshot 2026-03-24 225650" src="https://github.com/user-attachments/assets/120221a8-7304-44e5-8dbd-381e80c4745a" />
 `  
-- `task-2-portfolio/kaggle.png`  
+- task-2 kaggle profile`  
 <img width="1920" height="1080" alt="Screenshot 2026-03-24 231929" src="https://github.com/user-attachments/assets/faff7aa0-4803-47fc-a38e-e3e231413c1f" />
 
 
@@ -51,7 +51,6 @@ This project helped me understand how to use digital tools effectively, maintain
  Part A – Coding Platform
 - Platform: HackerRank  
 - Activity: Completed a beginner-level coding problem  
-
  Part B – Google Form
 - Created a Digital Literacy Awareness Quiz with 5 questions  
 - Collected responses using Google Sheets  
@@ -59,12 +58,12 @@ This project helped me understand how to use digital tools effectively, maintain
  Google Form Link: [Paste your link here]
 
  Files:  
-- `task-3-platforms/hackerrank.png`
+- `task-3 hackerrank
 - <img width="1920" height="1080" alt="Screenshot 2026-03-24 235929" src="https://github.com/user-attachments/assets/4010d846-d913-4126-873e-b45d1447cfb4" />
   
-- `task-3-platforms/google-form.png
+- `task-3 google-form
 - https://docs.google.com/forms/d/e/1FAIpQLSeDTAgGN2uT0gNhE5yFZzd78j5kDf5CmQf4EuzifGllu62MZA/viewform?usp=publish-editor`  
-- `task-3-platforms/responses.png`
+- `task-3 google responses
 -  <img width="1920" height="1080" alt="Screenshot 2026-03-26 185147" src="https://github.com/user-attachments/assets/b295c967-dc76-45e3-8560-897734809da6" />
  
 
@@ -77,11 +76,11 @@ This project helped me understand how to use digital tools effectively, maintain
 - Created a Social Media Do’s and Don’ts checklist  
 
  Files:  
-- `task-4-email-etiquette/emails.txt`
+- task-4 email application for assignment dead
 - https://github.com/keerthanasrinivas1916-bit/Digital-Literacy/blob/main/task-4%20Subject%20Request%20for%20Assignment%20Dead.txt
 - task-4 internship application email
 - https://github.com/keerthanasrinivas1916-bit/Digital-Literacy/blob/main/task-4%20Subject%20Application%20for%20Summer%20Inte.txt  
-- `task-4-email-etiquette/social-media-checklist.txt`
+- `task-4 social-media-checklist
 -  https://github.com/keerthanasrinivas1916-bit/Digital-Literacy/blob/main/task-4%20SOCIAL%20MEDIA%20CHECKLISTDO%E2%80%99s.txt 
 
 
@@ -89,17 +88,15 @@ This project helped me understand how to use digital tools effectively, maintain
  Task 5 – Cybercrime Awareness
  Case Study
 - Topic: Phishing
-- 
 - Description: Explained how phishing attacks occur and their impact  
-
- Prevention Checklist
+- Prevention Checklist
 - Created a checklist with safety tips including UPI safety and reporting methods  
 
  Files:  
-- `task-5-cybercrime/casestudy.txt`
+- `task-5 casestudy
 -  https://github.com/keerthanasrinivas1916-bit/Digital-Literacy/blob/main/task-5%20PHIISHING%20CASE%20STUDY.txt 
-- `task-5-cybercrime/prevention-checklist.txt`
--   
+- `task-5 prevention-checklist
+-  https://github.com/keerthanasrinivas1916-bit/Digital-Literacy/blob/main/task-5%20Stay%20Safe%20Online%20%E2%80%93%20Prevention%20Check.txt 
 
 
 
