@@ -85,7 +85,8 @@ This project helped me understand how to use digital tools effectively, maintain
 
  Task 5 – Cybercrime Awareness
  Case Study
-- Topic: Phishing  
+- Topic: Phishing
+- 
 - Description: Explained how phishing attacks occur and their impact  
 
  Prevention Checklist
