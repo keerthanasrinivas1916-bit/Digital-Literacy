@@ -1,9 +1,9 @@
  Digital Literacy Project
 
  Student Details
-Name: [Your Name]  
-Registration Number: [Your Reg No.]  
-Branch: [Your Branch]  
+Name: KOTTE KEERTHANA  
+Registration Number: 25BAI10690 
+Branch: BTech CSE AIML
 Year: 1st Year B.Tech  
 Course Code: CSE0001  
 
@@ -82,7 +82,7 @@ This project helped me understand how to use digital tools effectively, maintain
 - task-4 internship application email
 - https://github.com/keerthanasrinivas1916-bit/Digital-Literacy/blob/main/task-4%20Subject%20Application%20for%20Summer%20Inte.txt  
 - `task-4-email-etiquette/social-media-checklist.txt`
--   
+-  https://github.com/keerthanasrinivas1916-bit/Digital-Literacy/blob/main/task-4%20SOCIAL%20MEDIA%20CHECKLISTDO%E2%80%99s.txt 
 
 
 
@@ -96,8 +96,10 @@ This project helped me understand how to use digital tools effectively, maintain
 - Created a checklist with safety tips including UPI safety and reporting methods  
 
  Files:  
-- `task-5-cybercrime/casestudy.txt`  
-- `task-5-cybercrime/prevention-checklist.txt`  
+- `task-5-cybercrime/casestudy.txt`
+-   
+- `task-5-cybercrime/prevention-checklist.txt`
+-   
 
 
 
